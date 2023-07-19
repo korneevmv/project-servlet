@@ -1,0 +1,65 @@
+td {
+    border: 3px solid antiquewhite;
+    padding: 10px;
+    border-collapse: separate;
+    /*margin: 10px;*/
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+    color: white!important;
+    text-shadow: 4px 4px 4px black;
+    empty-cells: show;
+    font-family: Papyrus;
+    font-kerning: inherit;
+
+}
+table {
+    background: url('https://u.livelib.ru/reader/LyudmilaSolovyanova/r/djjbru5h/djjbru5h-r.jpg');
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: color-burn;
+    background-color:rgba(0, 0, 0, .4);
+    position: static;
+    width: 400px;
+    height: 400px;
+}
+body {
+    color: antiquewhite;
+    font-family: Papyrus;
+    background: black;
+}
+h1 {
+    margin-left: 55px;
+}
+
+button#cross {
+    background-image: url("https://www.looper.com/img/gallery/15-most-popular-adventure-time-characters-ranked/l-intro-1647619581.jpg");
+}
+button#nought {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTEzNmI2OGItZTA1Mi00NzNkLTllY2MtMTFjMmYzODg0ODI2XkEyXkFqcGdeQXVyMzE5MDUxODM@._V1_.jpg");
+}
+button#draw {
+    background-image: url("https://www.indiewire.com/wp-content/uploads/2013/10/adventure-time.png?w=1039&h=854&crop=1");
+}
+button#rest {
+    background-image: url("https://cdni.fancaps.net/file/fancaps-tvimages/9619601.jpg");
+}
+button {
+    font-size: 30px;
+    width: 400px;
+    height: 135px;
+
+    background-size: cover;
+    background-position: center;
+    color: white!important;
+    font-weight: bolder;
+
+    background-blend-mode: color-burn;
+    background-color:rgba(0, 0, 0, .3);
+
+    text-shadow: 4px 4px 4px black;
+    font-family: Papyrus;
+    font-kerning: inherit;
+}
